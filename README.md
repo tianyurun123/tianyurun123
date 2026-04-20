@@ -2,7 +2,6 @@
  
 A developer learning AI & full-stack development, growing through projects.
 
----
 
 ### 🚀 What I’m focusing on
 - 🤖 **Large Language Models & AI Agents**  
@@ -12,7 +11,6 @@ A developer learning AI & full-stack development, growing through projects.
 - 🧪 **Software Testing**  
   Learning test basics and project quality assurance
 
----
 
 ### 💻 Tech Stack (Learning & Practicing)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +24,7 @@ A developer learning AI & full-stack development, growing through projects.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat-square)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-5C6BC0?style=flat-square)
----
+
 
 ### 💡 About Me
 - 🔭 Building AI projects & full-stack applications
@@ -34,7 +32,7 @@ A developer learning AI & full-stack development, growing through projects.
 - 🎯 Turning knowledge into real, usable projects
 - 📈 Growing step by step every day
 - ✍️ Blog: [CSDN](https://blog.csdn.net/zzz349466)
----
+
 
 
 ### 📊 GitHub Stats
