@@ -12,20 +12,17 @@ A developer learning AI & full-stack development, growing through projects.
   Learning test basics and project quality assurance
 
 
-### 💻 Tech Stack (Learning & Practicing)
+### 🔭 Tech Stack (Learning & Practicing)
 <p align="left">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width="50" src="https://img.icons8.com/color/96/artificial-intelligence.png" />
 </p>
 
@@ -39,7 +36,7 @@ A developer learning AI & full-stack development, growing through projects.
 
 
 ### 📊 GitHub Stats
-<div align="center" style="background: #f6f8fa; border-radius: 12px; border: 1px solid #e5e7eb;">
+<div style="background: #f6f8fa; border-radius: 12px; border: 1px solid #e5e7eb;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=tianyurun123&show_icons=true&theme=default&hide_border=true" />
 </div>
 
