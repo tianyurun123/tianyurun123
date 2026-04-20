@@ -2,7 +2,6 @@
 
 A developer learning AI & full-stack development, growing through projects.
 
-<br>
 
 ### 🚀 What I’m focusing on
 - 🤖 **Large Language Models & AI Agents**  
@@ -12,19 +11,24 @@ A developer learning AI & full-stack development, growing through projects.
 - 🧪 **Software Testing**  
   Learning test basics and project quality assurance
 
-<br>
 
 ### 💻 Tech Stack (Learning & Practicing)
 <p align="left">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="50" src="https://img.icons8.com/color/96/artificial-intelligence.png" />
 </p>
 
-<br>
 
 ### 💡 About Me
 - 🔭 Building AI projects & full-stack applications
@@ -33,14 +37,10 @@ A developer learning AI & full-stack development, growing through projects.
 - 📈 Growing step by step every day
 - ✍️ Blog: [CSDN](https://blog.csdn.net/zzz349466)
 
-<br>
 
 ### 📊 GitHub Stats
-<div align="center" style="padding: 20px; background: #f6f8fa; border-radius: 12px; border: 1px solid #e5e7eb;">
+<div align="center" style="background: #f6f8fa; border-radius: 12px; border: 1px solid #e5e7eb;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=tianyurun123&show_icons=true&theme=default&hide_border=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tianyurun123&hide_border=true" />
 </div>
-
-<br>
 
 ⭐ Feel free to explore my repos & welcome to learn together!
