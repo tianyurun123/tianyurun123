@@ -32,9 +32,4 @@ A developer learning AI & full-stack development, growing through projects.
 - ✍️ Blog: [CSDN](https://blog.csdn.net/zzz349466)
 
 
-### 📊 GitHub Stats
-<div style="background: #f6f8fa; border-radius: 12px; border: 1px solid #e5e7eb;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tianyurun123&show_icons=true&theme=default&hide_border=true" />
-</div>
-
 ⭐ Feel free to explore my repos & welcome to learn together!
